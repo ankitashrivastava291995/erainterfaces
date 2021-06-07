@@ -25,7 +25,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/banner.jpg
     image: images/side_baner.jpg
-  - subtitle: Services We Offer
+  - subtitle: solutions we provide
     actions: []
     grid_items:
       - title: lorem-ipsum
