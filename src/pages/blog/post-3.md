@@ -1,7 +1,7 @@
 ---
 title: A Guide To User Journey Mapping
 subtitle: >-
-  xWhat is a Learning Management System? How is it useful? A learning management
+  What is a Learning Management System? How is it useful? A learning management
   system, (LMS) is software that is designed specifically to create, distribute,
   and manage the delivery of educational content. […]
 date: '2020-05-28'
