@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image_opacity: 0
+    background_image_opacity: 5
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
