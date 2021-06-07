@@ -25,40 +25,6 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/banner.jpg
     image: images/side_baner.jpg
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/giet.png
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/ksrct.png
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/vsbec.png
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/svpcet.png
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/svcet.png
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/fabulous-neptune.png
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/scientific-rabbit.png
-        image_alt: Gridsome logo
-        image_align: center
-      - image: images/remarkable-lettuce.png
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    background_image_opacity: 0
-    background_color: none
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
@@ -128,6 +94,40 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
+  - type: grid_section
+    title: Image Grid
+    subtitle: Grid Section Example
+    align: center
+    grid_items:
+      - image: images/giet.png
+        image_alt: Contentful logo
+        image_align: center
+      - image: images/ksrct.png
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/vsbec.png
+        image_alt: Gatsby logo
+        image_align: center
+      - image: images/svpcet.png
+        image_alt: Sanity logo
+        image_align: center
+      - image: images/svcet.png
+        image_alt: DatoCMS logo
+        image_align: center
+      - image: images/fabulous-neptune.png
+        image_alt: Next.js logo
+        image_align: center
+      - image: images/scientific-rabbit.png
+        image_alt: Gridsome logo
+        image_align: center
+      - image: images/remarkable-lettuce.png
+        image_alt: Git logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    background_image_opacity: 0
+    background_color: none
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
