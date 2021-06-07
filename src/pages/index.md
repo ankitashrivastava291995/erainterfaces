@@ -57,7 +57,6 @@ sections:
         type: grid_item
         image: images/internship 2.png
       - title: Recruitment
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
