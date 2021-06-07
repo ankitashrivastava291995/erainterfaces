@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image_opacity: 35
+    background_image_opacity: 3
     background_image_repeat: no-repeat
     background_image: images/banner.jpg
   - type: grid_section
