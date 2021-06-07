@@ -83,7 +83,7 @@ sections:
     type: grid_section
     title: Services We Offer
   - type: features_section
-    title: Features Section
+    title: About Us
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
