@@ -25,8 +25,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/banner.jpg
     image: images/side_baner.jpg
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
