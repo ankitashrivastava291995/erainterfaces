@@ -28,7 +28,7 @@ sections:
   - subtitle: solutions we provide
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Education
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
