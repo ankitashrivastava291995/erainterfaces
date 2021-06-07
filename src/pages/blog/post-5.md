@@ -1,8 +1,9 @@
 ---
 title: TOP TRENDING TECHNOLOGY IN 2021
 subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+  Top Trending technology in 2021 Trend 1: Internet of Behaviors As demonstrated
+  by the COVID-19 protocol monitoring example, spans the digital and physical
+  worlds — that information can be […]
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
