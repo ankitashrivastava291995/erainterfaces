@@ -43,7 +43,6 @@ sections:
         type: grid_item
         image: images/dp.png
       - title: Application
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
