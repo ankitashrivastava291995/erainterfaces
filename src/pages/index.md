@@ -51,7 +51,7 @@ sections:
       - image: images/scientific-rabbit.png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/acme.png
+      - image: images/remarkable-lettuce.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
