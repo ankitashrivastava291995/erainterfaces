@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Reliable & Cost Efficient Solutioning Company
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      ERA Interfaces wants to provide smart and proactive digital solutions to
+      ensure its customers stay relevant in these progressive and dynamic market
+      conditions.
     actions:
       - label: Try Free
         url: /pricing
