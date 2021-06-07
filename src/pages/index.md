@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 1
     background_image_repeat: no-repeat
     background_image: images/banner.jpg
