@@ -45,7 +45,7 @@ sections:
       - image: images/svcet.png
         image_alt: DatoCMS logo
         image_align: center
-      - image: images/tw.png
+      - image: images/fabulous-neptune.png
         image_alt: Next.js logo
         image_align: center
       - image: images/scientific-rabbit.png
