@@ -90,10 +90,12 @@ sections:
         subtitle: >-
           We are on a mission to empower each organization and individuals to
           self sustain through our range of services and product offerings
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Breaking Conventional Approaches and Establishing a New ERA
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
         actions:
           - label: Learn More
             url: /style-guide
