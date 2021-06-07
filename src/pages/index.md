@@ -42,7 +42,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/dp.png
-      - title: application
+      - title: Application
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
