@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     background_image_opacity: 5
     background_image_repeat: no-repeat
   - type: grid_section
