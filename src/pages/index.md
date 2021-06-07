@@ -119,7 +119,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: 'Call Us '
+          - label: Call Us Now
             url: '#'
             style: secondary
             has_icon: false
