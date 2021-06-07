@@ -84,7 +84,7 @@ sections:
     title: Services We Offer
   - type: features_section
     title: About Us
-    subtitle: Features Section Example
+    subtitle: what we are
     features:
       - title: Explore What we are
         subtitle: >-
