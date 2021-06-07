@@ -1,8 +1,9 @@
 ---
 title: A Guide To User Journey Mapping
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  xWhat is a Learning Management System? How is it useful? A learning management
+  system, (LMS) is software that is designed specifically to create, distribute,
+  and manage the delivery of educational content. […]
 date: '2020-05-28'
 author: src/data/team/gustav-purpleson.yaml
 categories:
