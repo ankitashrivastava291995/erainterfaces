@@ -1,8 +1,9 @@
 ---
 title: BEST PRACTICES FOR CODING
 subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+  Welcome to the wonderful world of software development. Prepare yourself for
+  an exciting and thrilling journey filled with code, rules, and more code. You
+  may be a […]
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
