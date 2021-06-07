@@ -24,6 +24,7 @@ sections:
     background_image_opacity: 1
     background_image_repeat: no-repeat
     background_image: images/banner.jpg
+    image: images/side_baner.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
