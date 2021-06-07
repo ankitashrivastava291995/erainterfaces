@@ -29,7 +29,6 @@ sections:
     actions: []
     grid_items:
       - title: Education
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
