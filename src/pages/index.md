@@ -86,7 +86,9 @@ sections:
     title: About Us
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: >-
+          We are on a mission to empower each organization and individuals to
+          self sustain through our range of services and product offerings
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
