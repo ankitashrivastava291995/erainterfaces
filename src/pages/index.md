@@ -95,6 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    title: Services
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
