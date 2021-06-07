@@ -58,7 +58,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_image_opacity: 0
-    background_color: primary
+    background_color: none
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
