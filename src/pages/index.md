@@ -56,7 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/internship 2.png
-      - title: Recruitmemt
+      - title: Recruitment
         subtitle: lorem-ipsum
         title_align: left
         content: >-
