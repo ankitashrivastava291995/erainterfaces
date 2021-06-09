@@ -56,7 +56,7 @@ sections:
         align: left
         type: feature
         image: images/services_Projects & internship.jpg
-      - title: lorem-ipsum
+      - title: Server Management
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
