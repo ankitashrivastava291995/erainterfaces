@@ -131,7 +131,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Our Clients
     subtitle: Grid Section Example
     align: center
     grid_items:
