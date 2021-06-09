@@ -23,7 +23,7 @@ sections:
     background_color: none
     background_image_opacity: 0
     background_image_repeat: no-repeat
-    image: images/___-1.gif
+    image: images/ultra-sloth.gif
   - subtitle: solutions we provide
     actions: []
     grid_items:
