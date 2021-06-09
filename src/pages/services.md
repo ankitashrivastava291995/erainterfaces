@@ -98,6 +98,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/service_itlf.jpg
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
