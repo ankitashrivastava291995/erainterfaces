@@ -131,7 +131,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Our Clients
-    subtitle: Grid Section Example
+    subtitle: Trusted by
     align: center
     grid_items:
       - image: images/giet.png
