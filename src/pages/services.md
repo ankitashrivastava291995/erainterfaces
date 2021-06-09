@@ -138,7 +138,7 @@ sections:
         align: left
         type: feature
         image: images/service_open_source.jpg
-      - title: lorem-ipsum
+      - title: DIGIPEDAGOGY
         subtitle: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
