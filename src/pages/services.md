@@ -85,7 +85,6 @@ sections:
         type: feature
         image: images/service_itlf.jpg
       - title: Chatbot Solution
-        subtitle: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
