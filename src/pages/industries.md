@@ -121,22 +121,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    features:
-      - title: 'Next ERA Of Your Business, Start Here.'
-        image: images/call back.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-        actions:
-          - label: Call Us Now
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+    features: []
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
