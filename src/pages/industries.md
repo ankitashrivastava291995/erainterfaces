@@ -1,6 +1,22 @@
 ---
 title: Home
 sections:
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - subtitle: solutions we provide
     actions: []
     grid_items:
@@ -58,22 +74,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Services We Offer
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - type: features_section
     title: About Us
     subtitle: what we are
