@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     background_image_opacity: 0
     background_image_repeat: no-repeat
     background_image: images/image_processing20200420-32741-qdyyw7.gif
