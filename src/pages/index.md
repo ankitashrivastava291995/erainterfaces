@@ -23,7 +23,6 @@ sections:
     background_color: none
     background_image_opacity: 0
     background_image_repeat: no-repeat
-    background_image: images/banner.gif
   - subtitle: solutions we provide
     actions: []
     grid_items:
