@@ -118,7 +118,7 @@ sections:
         align: left
         type: feature
         image: images/service_smart campus.jpg
-      - title: lorem-ipsum
+      - title: Open Source
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
