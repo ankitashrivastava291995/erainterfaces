@@ -76,7 +76,7 @@ sections:
         align: left
         type: feature
         image: images/service_server.jpg
-      - title: lorem-ipsum
+      - title: ITLF
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
