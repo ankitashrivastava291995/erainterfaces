@@ -24,7 +24,6 @@ sections:
     background_image_opacity: 0
     background_image_repeat: no-repeat
     background_image: images/banner.gif
-    image: images/side_baner.jpg
   - subtitle: solutions we provide
     actions: []
     grid_items:
