@@ -75,6 +75,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/service_server.jpg
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
