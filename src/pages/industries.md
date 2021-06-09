@@ -84,6 +84,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/recruitment1.jpg
       - title: lorem-ipsum
         title_align: left
         content_align: left
