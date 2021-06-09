@@ -32,7 +32,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/dp.png
+        image: images/education.jpg
       - title: Application
         title_align: left
         content_align: left
