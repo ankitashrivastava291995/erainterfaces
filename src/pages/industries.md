@@ -60,7 +60,6 @@ sections:
         type: grid_item
         image: images/colleagues-giving-fist-bump.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
