@@ -135,6 +135,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/service_smart campus.jpg
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
