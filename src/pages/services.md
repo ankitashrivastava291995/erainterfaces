@@ -58,6 +58,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/services_Projects & internship.jpg
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
