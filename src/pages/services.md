@@ -25,6 +25,7 @@ sections:
           fringilla, fringilla.
         media_position: left
         media_width: fifty
+        image: images/service_application.jpg
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
