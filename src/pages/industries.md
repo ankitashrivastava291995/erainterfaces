@@ -124,40 +124,6 @@ sections:
     features: []
     feature_padding_vert: small
     background_color: primary
-  - type: grid_section
-    title: Our Clients
-    subtitle: Trusted by
-    align: center
-    grid_items:
-      - image: images/giet.png
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/ksrct.png
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/vsbec.png
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/svpcet.png
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/svcet.png
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/fabulous-neptune.png
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/scientific-rabbit.png
-        image_alt: Gridsome logo
-        image_align: center
-      - image: images/remarkable-lettuce.png
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    background_image_opacity: 0
-    background_color: none
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed
