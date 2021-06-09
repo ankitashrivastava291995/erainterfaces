@@ -23,7 +23,7 @@ sections:
     background_color: none
     background_image_opacity: 0
     background_image_repeat: no-repeat
-    background_image: images/image_processing20200420-32741-qdyyw7.gif
+    background_image: images/banner.gif
     image: images/side_baner.jpg
   - subtitle: solutions we provide
     actions: []
