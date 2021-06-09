@@ -101,7 +101,7 @@ sections:
         align: left
         type: feature
         image: images/service_chatbot.jpg
-      - title: lorem-ipsum
+      - title: ' Smart Campus'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
