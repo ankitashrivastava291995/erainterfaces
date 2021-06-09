@@ -102,7 +102,6 @@ sections:
         type: feature
         image: images/service_chatbot.jpg
       - title: ' Smart Campus'
-        subtitle: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
